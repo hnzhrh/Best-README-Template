@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/hnzhrh/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/hnzhrh/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hnzhrh/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/hnzhrh/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/hnzhrh/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/hnzhrh/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -176,7 +176,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/hnzhrh/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -198,8 +198,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/hnzhrh/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hnzhrh/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -246,16 +246,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hnzhrh/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/hnzhrh/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hnzhrh/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/hnzhrh/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/hnzhrh/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/hnzhrh/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hnzhrh/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/hnzhrh/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/hnzhrh/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/hnzhrh/Best-README-Template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [JDK]: https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white
 [JDK-url]: https://openjdk.org/
