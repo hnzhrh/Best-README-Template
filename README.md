@@ -236,6 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/hnzhrh/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/hnzhrh/Best-README-Template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
+
 [JDK]: https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white
 [JDK-url]: https://openjdk.org/
 [Maven]: https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
