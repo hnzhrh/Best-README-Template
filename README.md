@@ -237,18 +237,18 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/hnzhrh/Best-README-Template/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 
-[JDK]: https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white
+[JDK]: https://img.shields.io/badge/OpenJDK-17-grey?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=grey
 [JDK-url]: https://openjdk.org/
-[Maven]: https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white
+[Maven]: https://img.shields.io/badge/Maven-3.9.8-C71A36?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=grey
 [Maven-url]: https://maven.apache.org/
-[SpringBoot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+[SpringBoot]: https://img.shields.io/badge/SpringBoot-3.2.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=grey
 [SpringBoot-url]: https://spring.io/projects/spring-boot
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL]: https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=grey
 [MySQL-url]: https://www.mysql.com/
-[Redis]: https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=mysql&logoColor=white
+[Redis]: https://img.shields.io/badge/Redis-7.0-FF4438?style=for-the-badge&logo=mysql&logoColor=FF4438&labelColor=grey
 [Redis-url]: https://redis.io/
-[Nacos]: https://img.shields.io/badge/Nacos-black?style=for-the-badge
+[Nacos]: https://img.shields.io/badge/Nacos-v2.3.2-black?style=for-the-badge&labelColor=grey
 [Nacos-url]: https://nacos.io/
-[RocketMQ]: https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=white
+[RocketMQ]: https://img.shields.io/badge/RocketMQ-5.1.4-D77310?style=for-the-badge&logo=apacherocketmq&logoColor=#D77310&labelColor=grey
 [RocketMQ-url]: https://rocketmq.apache.org/
 
